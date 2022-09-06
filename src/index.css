@@ -7,7 +7,16 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+ul {
+  text-align: left;
+  list-style: inside circle;
+  width: 300px;}
+li {
+  margin: 10px 0px 0px 0px;}
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
+  
+  }
